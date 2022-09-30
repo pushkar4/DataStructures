@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/SumOf2LinkedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BreadthFirstSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DeleteNodesWhichHaveAGreaterValueOnRight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SegmentTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DisjointSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DepthFirstSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ReverseLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MaxStack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinaryMaze" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IntervalTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ReverseStack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NextGreatestElement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FenwickTree-BinaryIndexedTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AVLTree" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
